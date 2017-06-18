@@ -1,0 +1,5 @@
+name: NPCAddon
+author: AlphaHelix
+version: 1.0
+description: Adds in NPCs
+main: de.alphahelix.npcaddon.NPCAddon
